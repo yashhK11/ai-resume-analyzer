@@ -116,7 +116,7 @@ export default function Home() {
             {
               icon: "🚀",
               title: "Actionable Tips",
-              desc: "Get clear, specific steps you can take right now to improve your resume score.",
+              desc: "Get clear and specific steps you can take right now to improve your resume score.",
             },
             {
               icon: "⚡",
