@@ -158,7 +158,7 @@ export default function Home() {
             Ready to improve your resume?
           </h2>
           <p className="text-secondary mb-4">
-            Get instant AI feedback — free, fast, and honest.
+            Get instant AI feedback : free, fast, and honest.
           </p>
           <Link to="/signup" className="btn btn-primary btn-lg px-5">
             Analyze for Free
